@@ -1,0 +1,5 @@
+{"type": "mycroft.volume.get.response",
+ "data": {
+     "percent": "",
+     "muted": ""}
+}
