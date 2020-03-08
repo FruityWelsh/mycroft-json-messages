@@ -1,4 +1,4 @@
 {"type": "mycroft.volume.set",
  "data": {
-      "percent": float}
+      "percent": ""}
 }
