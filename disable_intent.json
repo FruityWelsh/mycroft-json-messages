@@ -1,0 +1,4 @@
+{"type": "mycroft.skill.disable_intent",
+ "data": {
+    "intent_name": "name"}
+}
