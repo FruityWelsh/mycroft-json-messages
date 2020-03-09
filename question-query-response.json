@@ -1,0 +1,9 @@
+{"type": "question:query.response",
+ "data": {
+    "phrase": "",
+    "skill_id": "",
+    "answer": "",
+    "conf": "",
+    "callback_data": ",
+    "searching": ""}
+}
