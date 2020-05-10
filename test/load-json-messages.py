@@ -4,6 +4,7 @@ import json
 import glob
 import unittest
 
+
 class ValidateJSON(unittest.TestCase):
     def test_json_file_loads(self):
         jsonfiles = glob.glob("../*.json")
