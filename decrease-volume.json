@@ -1,4 +1,4 @@
-{"type": "mycroft.volume.increase",
+{"type": "mycroft.volume.decrease",
  "data": {
      "play_sound": ""}
 }

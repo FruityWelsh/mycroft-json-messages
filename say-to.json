@@ -1,4 +1,6 @@
 {"type": "recognizer_loop:utterance",
  "data": {
-     "utterance": ""}
+    "utterance": "",
+    "lang": ""}
 }
+
